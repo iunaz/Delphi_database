@@ -1,0 +1,320 @@
+object Form1: TForm1
+  Left = 216
+  Top = 190
+  Width = 870
+  Height = 692
+  Caption = 'Form1'
+  Color = clActiveCaption
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'MS Sans Serif'
+  Font.Style = []
+  OldCreateOrder = False
+  PixelsPerInch = 96
+  TextHeight = 13
+  object GroupBox1: TGroupBox
+    Left = 24
+    Top = 0
+    Width = 585
+    Height = 345
+    Caption = #1041#1072#1079#1072
+    TabOrder = 0
+    object DBGrid1: TDBGrid
+      Left = 8
+      Top = 16
+      Width = 569
+      Height = 321
+      DataSource = DataSource1
+      TabOrder = 0
+      TitleFont.Charset = DEFAULT_CHARSET
+      TitleFont.Color = clWindowText
+      TitleFont.Height = -11
+      TitleFont.Name = 'MS Sans Serif'
+      TitleFont.Style = []
+    end
+  end
+  object GroupBox2: TGroupBox
+    Left = 608
+    Top = 0
+    Width = 217
+    Height = 345
+    Caption = #1044#1086#1073#1072#1074#1083#1077#1085#1080#1077
+    TabOrder = 1
+    object Label1: TLabel
+      Left = 8
+      Top = 32
+      Width = 44
+      Height = 13
+      Caption = #1050#1086#1076' '#1090#1091#1088#1072
+    end
+    object Label2: TLabel
+      Left = 8
+      Top = 56
+      Width = 36
+      Height = 13
+      Caption = #1057#1090#1088#1072#1085#1072
+    end
+    object Label3: TLabel
+      Left = 8
+      Top = 80
+      Width = 30
+      Height = 13
+      Caption = #1043#1086#1088#1086#1076
+    end
+    object Label4: TLabel
+      Left = 8
+      Top = 104
+      Width = 104
+      Height = 13
+      Caption = #1055#1088#1086#1076#1086#1083#1078#1080#1090#1077#1083#1100#1085#1086#1089#1090#1100
+    end
+    object Label5: TLabel
+      Left = 8
+      Top = 128
+      Width = 64
+      Height = 13
+      Caption = #1055#1088#1086#1078#1080#1074#1072#1085#1080#1077
+    end
+    object Label14: TLabel
+      Left = 8
+      Top = 152
+      Width = 43
+      Height = 13
+      Caption = #1055#1080#1090#1072#1085#1080#1077
+    end
+    object Label15: TLabel
+      Left = 8
+      Top = 176
+      Width = 54
+      Height = 13
+      Caption = #1069#1082#1089#1082#1091#1088#1089#1080#1103
+    end
+    object Label16: TLabel
+      Left = 8
+      Top = 200
+      Width = 94
+      Height = 13
+      Caption = #1044#1072#1090#1072' '#1086#1090#1087#1088#1072#1074#1083#1077#1085#1080#1103
+    end
+    object Label17: TLabel
+      Left = 8
+      Top = 224
+      Width = 78
+      Height = 13
+      Caption = #1044#1072#1090#1072' '#1087#1088#1080#1073#1099#1090#1080#1103
+    end
+    object Label18: TLabel
+      Left = 8
+      Top = 248
+      Width = 55
+      Height = 13
+      Caption = #1057#1090#1086#1080#1084#1086#1089#1090#1100
+    end
+    object BitBtn5: TBitBtn
+      Left = 8
+      Top = 280
+      Width = 81
+      Height = 25
+      Caption = #1044#1086#1073#1072#1074#1080#1090#1100
+      TabOrder = 0
+    end
+    object BitBtn8: TBitBtn
+      Left = 112
+      Top = 280
+      Width = 89
+      Height = 25
+      Caption = #1056#1077#1076#1072#1082#1090#1080#1088#1086#1074#1072#1090#1100' '
+      TabOrder = 1
+    end
+    object TDBEdit
+      Left = 112
+      Top = 32
+      Width = 89
+      Height = 21
+      TabOrder = 2
+    end
+    object TDBEdit
+      Left = 112
+      Top = 56
+      Width = 89
+      Height = 21
+      TabOrder = 3
+    end
+    object TDBEdit
+      Left = 112
+      Top = 80
+      Width = 89
+      Height = 21
+      TabOrder = 4
+    end
+    object TDBEdit
+      Left = 112
+      Top = 104
+      Width = 89
+      Height = 21
+      TabOrder = 5
+    end
+    object TDBEdit
+      Left = 112
+      Top = 128
+      Width = 89
+      Height = 21
+      TabOrder = 6
+    end
+    object TDBEdit
+      Left = 112
+      Top = 152
+      Width = 89
+      Height = 21
+      TabOrder = 7
+    end
+    object TDBEdit
+      Left = 112
+      Top = 176
+      Width = 89
+      Height = 21
+      TabOrder = 8
+    end
+    object TDBEdit
+      Left = 112
+      Top = 200
+      Width = 89
+      Height = 21
+      TabOrder = 9
+    end
+    object TDBEdit
+      Left = 112
+      Top = 224
+      Width = 89
+      Height = 21
+      TabOrder = 10
+    end
+    object TDBEdit
+      Left = 112
+      Top = 248
+      Width = 89
+      Height = 21
+      TabOrder = 11
+    end
+  end
+  object GroupBox4: TGroupBox
+    Left = 24
+    Top = 344
+    Width = 417
+    Height = 289
+    Caption = #1055#1086#1080#1089#1082
+    TabOrder = 2
+    object Label11: TLabel
+      Left = 8
+      Top = 16
+      Width = 36
+      Height = 13
+      Caption = #1057#1090#1088#1072#1085#1072
+    end
+    object Label12: TLabel
+      Left = 8
+      Top = 40
+      Width = 104
+      Height = 13
+      Caption = #1055#1088#1086#1076#1086#1083#1078#1080#1090#1077#1083#1100#1085#1086#1089#1090#1100
+    end
+    object Label13: TLabel
+      Left = 8
+      Top = 64
+      Width = 54
+      Height = 13
+      Caption = #1089#1090#1086#1080#1084#1086#1089#1090#1100
+    end
+    object BitBtn7: TBitBtn
+      Left = 240
+      Top = 24
+      Width = 75
+      Height = 49
+      Caption = #1053#1072#1081#1090#1080
+      TabOrder = 0
+    end
+  end
+  object BitBtn1: TBitBtn
+    Left = 696
+    Top = 520
+    Width = 105
+    Height = 41
+    Caption = #1042#1099#1093#1086#1076
+    ModalResult = 2
+    TabOrder = 3
+  end
+  object BitBtn2: TBitBtn
+    Left = 496
+    Top = 464
+    Width = 105
+    Height = 41
+    Caption = #1047#1072#1075#1088#1091#1079#1080#1090#1100
+    TabOrder = 4
+  end
+  object BitBtn3: TBitBtn
+    Left = 496
+    Top = 424
+    Width = 105
+    Height = 33
+    Caption = #1057#1086#1093#1088#1072#1085#1080#1090#1100
+    TabOrder = 5
+  end
+  object BitBtn4: TBitBtn
+    Left = 496
+    Top = 384
+    Width = 105
+    Height = 33
+    Caption = #1055#1077#1095#1072#1090#1100
+    TabOrder = 6
+  end
+  object BitBtn6: TBitBtn
+    Left = 616
+    Top = 312
+    Width = 81
+    Height = 25
+    Caption = #1059#1076#1072#1083#1080#1090#1100
+    TabOrder = 7
+  end
+  object DataSource1: TDataSource
+    DataSet = ADOTable1
+    Left = 776
+    Top = 368
+  end
+  object ADOConnection1: TADOConnection
+    Connected = True
+    ConnectionString = 
+      'Provider=Microsoft.Jet.OLEDB.4.0;Data Source=C:\Users\'#1053#1072#1089#1090#1103'\Desk' +
+      'top\'#1082#1091#1088#1089#1086#1074#1072#1103'\Database2.mdb;Persist Security Info=False'
+    LoginPrompt = False
+    Mode = cmShareDenyNone
+    Provider = 'Microsoft.Jet.OLEDB.4.0'
+    Left = 696
+    Top = 368
+  end
+  object ADOTable1: TADOTable
+    Active = True
+    ConnectionString = 
+      'Provider=Microsoft.Jet.OLEDB.4.0;Data Source=C:\Users\'#1053#1072#1089#1090#1103'\Desk' +
+      'top\'#1082#1091#1088#1089#1086#1074#1072#1103'\Database2.mdb;Mode=ReadWrite|Share Deny None;Persis' +
+      't Security Info=False'
+    CursorType = ctStatic
+    LockType = ltReadOnly
+    TableDirect = True
+    TableName = #1058#1072#1073#1083#1080#1094#1072'1'
+    Left = 736
+    Top = 368
+  end
+  object OpenDialog1: TOpenDialog
+    Left = 640
+    Top = 424
+  end
+  object SaveDialog1: TSaveDialog
+    Left = 608
+    Top = 424
+  end
+  object PrintDialog1: TPrintDialog
+    Left = 608
+    Top = 384
+  end
+end

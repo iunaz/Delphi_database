@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.483,C:\Users\Маленькая Кобра\Desktop\курсовая\4\Unit4.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.203,=C:\Users\Маленькая Кобра\Desktop\курсовая\Unit5.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.114,C:\Users\Маленькая Кобра\Desktop\курсовая\Unit5.pas=C:\Users\Маленькая Кобра\Desktop\курсовая\5\Unit5.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.114,C:\Users\Маленькая Кобра\Desktop\курсовая\Unit5.dfm=C:\Users\Маленькая Кобра\Desktop\курсовая\5\Unit5.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.565,C:\Users\Маленькая Кобра\Desktop\курсовая\Unit4.dfm=C:\Users\Маленькая Кобра\Desktop\курсовая\4\Unit4.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.042,=C:\Users\Маленькая Кобра\Desktop\курсовая\Unit7.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.400,=C:\Users\Маленькая Кобра\Desktop\курсовая\Unit4.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.565,C:\Users\Маленькая Кобра\Desktop\курсовая\Unit4.pas=C:\Users\Маленькая Кобра\Desktop\курсовая\4\Unit4.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.393,C:\Users\Маленькая Кобра\Desktop\курсовая\5\Unit5.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.170,=C:\Users\Маленькая Кобра\Desktop\курсовая\Unit5.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.509,=C:\Users\Маленькая Кобра\Desktop\курсовая\Unit6.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.146,=C:\Users\Маленькая Кобра\Desktop\курсовая\Unit4.pas</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="Unit1.pas"/>
+    <File Path="Unit1.dfm"/>
+    <File Path="Unit2.pas"/>
+    <File Path="Unit2.dfm"/>
+    <File Path="Unit3.pas"/>
+    <File Path="Unit3.dfm"/>
+    <File Path="Unit4.pas"/>
+    <File Path="Unit4.dfm"/>
+    <File Path="Unit5.pas"/>
+    <File Path="Unit5.dfm"/>
+    <File Path="Unit6.pas"/>
+    <File Path="Unit6.dfm"/>
+    <File Path="Unit7.pas"/>
+    <File Path="Unit7.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>
